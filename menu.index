@@ -6,34 +6,33 @@
     </head>
     <body>
     
-        <h1>Our dinner menu</h1>
+        <h1>Mon menu</h1>
 
         <table>
             <thead>
                 <tr>
-                    <th>Meal</th>
-                    <th>Ingredients</th>
-                    <th>Price</th>
+                    <th>Repas</th>
+                    <th>Ingrédients</th>
+                    <th>Prix</th>
                 </tr>
             </thead>
             <tbody>
                 <tr>
                     <td>Spaghetti</td>
-                    <td>Sauce tomate, nouilles spaghetti et fromage graté</td>
-                    <td>black and white</td>
+                    <td>Sauce tomate, nouilles spaghetti et fromage graté avec du basil</td>
+                    <td>20.99$</td>
                 </tr>
                 <tr>
-                    <td>Black & white</td>
-                    <td>rabbit</td>
-                    <td>black and white</td>
+                    <td>Pain à l'ail</td>
+                    <td>Pain, ail et du beure</td>
+                    <td>7.99$</td>
                 </tr>
                  <tr>
-                    <td>Black & white</td>
-                    <td>rabbit</td>
-                    <td>black and white</td>
+                    <td>Crème glacée</td>
+                    <td>Chocolate, Lait, Crème, sucre</td>
+                    <td>5.99$</td>
                 </tr>
             </tbody>
         </table>
-
     </body>
 </html>
